@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="plural_days">
+        <item quantity="other">%d dienas</item>
+        <item quantity="one">%d diena</item>
+    <item quantity="few">%d dienas</item>
+    </plurals>
+    <plurals name="plural_hours">
+        <item quantity="other">%d stundas</item>
+        <item quantity="one">%d stunda</item>
+    <item quantity="few">%d stundas</item>
+    </plurals>
+</resources>

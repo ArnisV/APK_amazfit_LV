@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cross_country_items">
+        <item>Noskriets</item>
+        <item>Pagājis laiks</item>
+        <item>Temps</item>
+        <item>Vid. kustības temps</item>
+        <item>Pulss</item>
+        <item>Kalorijas</item>
+        <item>Augstums</item>
+        <item>Kāpums</item>
+        <item>Kritums</item>
+        <item>Vertikālais ātrums</item>
+        <item>Ātrums</item>
+        <item>Vid. ātrums</item>
+        <item>Ritms</item>
+        <item>Vid. ritms</item>
+    </string-array>
+    <string-array name="default_watch_face_info">
+        <item>com.huami.watch.watchface.analogyellow</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
+        <item>Dzīves marafons</item>
+        <item>com.huami.watch.watchface.analogyellow</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
+        <item>"Es skrienu"</item>
+        <item>com.huami.watch.watchface.analogyellow</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportFive</item>
+        <item>Stiprais sitiens</item>
+    </string-array>
+    <string-array name="indoor_run_items">
+        <item>Noskriets</item>
+        <item>Pagājis laiks</item>
+        <item>Temps</item>
+        <item>Pulss</item>
+        <item>Kalorijas</item>
+        <item>Ātrums</item>
+        <item>Ritms</item>
+        <item>Vid. temps</item>
+        <item>Vid. ātrums</item>
+    </string-array>
+    <string-array name="lock_screen_type">
+        <item>Cieši</item>
+        <item>Tuvu</item>
+        <item>Tālu</item>
+    </string-array>
+    <string-array name="notification_test_items">
+        <item>Zema uzlāde</item>
+        <item>Ienākošais zvans</item>
+        <item>Kustības atgādinājums</item>
+        <item>Mērķis sasniegts</item>
+        <item>Saņemts medālis</item>
+        <item>Laikaziņu paziņojums</item>
+    </string-array>
+    <string-array name="outdoor_riding_items">
+        <item>Nobraukts</item>
+        <item>Pagājis laiks</item>
+        <item>Ātrums</item>
+        <item>Vid. ātrums</item>
+        <item>Ritms</item>
+        <item>Augstums</item>
+        <item>Kāpuma pieaugums</item>
+        <item>Kopējais attālums</item>
+        <item>Cumulatīvais augstuma kritums</item>
+        <item>Pulss</item>
+        <item>Kalorijas</item>
+    </string-array>
+    <string-array name="run_artist_names">
+        <item>Noskriets</item>
+        <item>Pagājis laiks</item>
+        <item>Temps</item>
+        <item>Pulss</item>
+        <item>Kalorijas</item>
+        <item>Ātrums</item>
+        <item>Ritms</item>
+        <item>Vid. temps</item>
+        <item>Vid. ātrums</item>
+    </string-array>
+    <string-array name="timeline_type">
+        <item>Aktivitāte</item>
+        <item>Lēna pastaiga</item>
+        <item>Pastaiga</item>
+        <item>Ātra iešana</item>
+        <item>Skriešana</item>
+        <item>Stāvēšana</item>
+        <item>Sēdēšana</item>
+        <item>Aktivitāte</item>
+        <item>Bante nav uzlikta</item>
+        <item>Bantes uzlāde</item>
+        <item>Atlaišanās</item>
+    </string-array>
+    <string-array name="walk_artist_names">
+        <item>Solis</item>
+        <item>Noiets</item>
+        <item>Pagājis laiks</item>
+        <item>Pulss</item>
+        <item>Kalorijas</item>
+        <item>Ātrums</item>
+        <item>Vid. kustības ātrums</item>
+    </string-array>
+</resources>
